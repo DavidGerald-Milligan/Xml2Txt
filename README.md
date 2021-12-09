@@ -2,6 +2,7 @@
 
 ###  The Xml2Txt application reads from a wikipedia dump file, and outputs a defined number of files at a defined minimum size.
 
+The ./publish directory contains the executable zipped for simplicity.
 The ./publish directory contains a small sample data.xml file of 10MB in size to get you moving.
 
 ### publish the project, it should pick up the publish profile at Xml2Txt\Properties\PublishProfiles\FolderProfile3.pubxml
