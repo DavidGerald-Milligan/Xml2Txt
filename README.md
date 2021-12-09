@@ -1,10 +1,10 @@
 # Xml2Txt
 
-##  The Xml2Txt application reads from a wikipedia dump file, and outputs a defined number of files at a defined minimum size.
+###  The Xml2Txt application reads from a wikipedia dump file, and outputs a defined number of files at a defined minimum size.
 
 The ./publish directory contains a small sample data.xml file of 10MB in size to get you moving.
 
-## publish the project, it should pick up the publish profile at Xml2Txt\Properties\PublishProfiles\FolderProfile3.pubxml
+### publish the project, it should pick up the publish profile at Xml2Txt\Properties\PublishProfiles\FolderProfile3.pubxml
 
 ###  Download a dump file 
 .xml.bz2 compressed files can be downloaded from https://dumps.wikimedia.org/enwiki/
