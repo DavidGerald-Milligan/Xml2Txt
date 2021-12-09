@@ -13,7 +13,7 @@ The ./publish directory contains a small sample data.xml file of 10MB in size to
 
 Example:/20210901/enwiki-20210901-pages-articles-multistream.xml.bz2
 
-This is an 18GB compressed file containing  some 25,000,0000 wikipedia pages.
+This is an 18GB compressed file containing  some 25,000,000 wikipedia pages.
 
 Use a utility such as [7-zip](https://www.7-zip.org/download.html) to extract this to enwiki-20210901-pages-articles-multistream.xml,
 
