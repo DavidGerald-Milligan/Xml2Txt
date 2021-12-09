@@ -27,7 +27,7 @@ Click on Xml2Txt.exe and you will be prompted for:
 - The number of files to create.
 - The minimum size of each file in MB.
 - The data file to use (maybe data.xml).
-- A directory to add files to.
+- A file prepend/directory name to use when generating files.
 
 The application will read each page from the xml, when it has read content greater than the minimum file size it will create a file in the defined directory.
 
