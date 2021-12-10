@@ -1,17 +1,5 @@
-﻿using DocumentFormat.OpenXml;
-using DocumentFormat.OpenXml.Packaging;
-using DocumentFormat.OpenXml.Spreadsheet;
-using DocumentFormat.OpenXml.Wordprocessing;
-using Syncfusion.Drawing;
-using Syncfusion.Pdf;
-using Syncfusion.Pdf.Graphics;
-using System;
-using System.IO;
-using System.Text;
+﻿using System.Text;
 using System.Xml;
-using System.Xml.Linq;
-using Run = DocumentFormat.OpenXml.Wordprocessing.Run;
-using Text = DocumentFormat.OpenXml.Spreadsheet.Text;
 
 namespace Xml2Txt
 {
