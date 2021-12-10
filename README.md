@@ -21,6 +21,8 @@ Rename the extracted file to something simpler, like data.xml.
 
 The extracted file is now some 90GB.
 
+If you want to inspect the structure use something like http://www.ximple.cz to split the file into manageable chunks.
+
 Copy the ../publish/Xml2Txt.exe to the same directory as the .xml file.
 
 Click on Xml2Txt.exe and you will be prompted for:
