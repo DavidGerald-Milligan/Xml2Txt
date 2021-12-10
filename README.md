@@ -40,3 +40,4 @@ Example:
 	- BIG_4.txt
 	- BIG_5.txt
 
+![Image showing operation](example.PNG "Example")
